@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# mapIt.py - Launches a map in the browser using an address from the
+# goto_gitpage.py - Launches a repo from my user profile in browser using an address from the
 # command line or clipboard.
 
 import webbrowser
